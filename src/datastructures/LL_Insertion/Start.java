@@ -6,7 +6,7 @@ public class Start {
 
        src.datastructures.Node newnode = new src.datastructures.Node(data);
         newnode.next=head;
-        return newnode;
+        return newnode; //this is the new heaad of the linked list;
         
     }
     
